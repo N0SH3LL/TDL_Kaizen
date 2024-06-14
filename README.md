@@ -33,10 +33,6 @@ This Python project is designed to assist with audit preparation for controls fr
     python GUI.py
     ```
 
-## Configuration
-
-You can configure various settings by modifying the `config.json` file. This includes paths to input/output directories, processing options, and report formats.
-
 ## Contact
 
 For any questions or suggestions, please open an issue in the repository.
